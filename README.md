@@ -15,9 +15,4 @@ I'm a computer engineer...
 ## 🛠 Skills
 c, PHP, MySQL, Javascript, HTML, CSS...
 
-## 🔗 Links
-[![youtube](http://www.youtube.com/@codewithPihuu)
-[![telegram](https://t.me/+yQl3hvm1YkAxZjk1)
-[![instagram](https://www.instagram.com/codewithpihuu/)
-
 
